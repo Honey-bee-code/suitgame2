@@ -39,9 +39,9 @@ pilihan.forEach(function (p) {
     const pilihanComputer = getPilihanComputer();
     const pilihanPlayer = p.className;
     const hasil = getHasil(pilihanComputer, pilihanPlayer);
-    console.log("comp : " + pilihanComputer);
-    console.log("player : " + pilihanPlayer);
-    console.log(hasil);
+    // console.log("comp : " + pilihanComputer);
+    // console.log("player : " + pilihanPlayer);
+    // console.log(hasil);
 
     acak();
 

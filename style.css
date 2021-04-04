@@ -1,5 +1,10 @@
+body {
+  text-align: center;
+}
+.container {
+  display: inline-block;
+}
 h1 {
-  margin-left: 100px;
   color: #d3cccc;
   text-shadow: 2px 0px 2px black;
 }
